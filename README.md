@@ -1,3 +1,2 @@
-# Welcome to your Lovable project
-
-TODO: Document your project here
+Its my first project.
+that's give me my Instructer who's Aleena 
